@@ -1,2 +1,3 @@
 # wordpress
-Playing around with wordpress and PHP
+Playing around with wordpress and PHP.
+PHP practice
